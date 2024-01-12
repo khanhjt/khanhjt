@@ -1,3 +1,9 @@
+---
+layout: post
+title: The Purpose of Education
+date: 1948-12-12 10:18:00
+categories: [fiction, jekylllllllll]
+---
 # YOLO
 ## 1. Kiến trúc mạng YOLO
 kiến trúc YOLO bao gồm: base network là các mạng convolution làm nhiệm vụ trích xuất đặc trưng. Phần phía sau là những Extra Layers được áp dụng để phát hiện vật thể trên feature map của base network.
