@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: Khanh Sc
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Nguyễn Hữu Khánh
+  email: khanhtiendt686@gmail.com
 
 plugins:
   - jemoji
