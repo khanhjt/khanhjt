@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Bài 1. C++ begin
-date: 2023-01-14
-categorise: ["Thuattoan"]
+title: Thuattoan
+date: 1948-12-12 10:18:00
+categories: [fiction, jekyll]
 ---
+
 
 ### Header 3
 
