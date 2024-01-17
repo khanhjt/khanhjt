@@ -20,7 +20,17 @@ body {
   line-height: 2rem;
   background-color: var(--gray-5);
 }
+/*header {
+  padding: 2rem 0 4rem 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}*/
 header {
+  max-width: 1200px; /* hoặc giá trị tùy chỉnh */
+  margin: 0 auto; /* Để giữ header ở giữa trang */
   padding: 2rem 0 4rem 0;
   display: flex;
   flex-direction: row;
@@ -28,6 +38,7 @@ header {
   justify-content: space-between;
   gap: 1rem;
 }
+
 header .site-title {
   font-size: 4rem;
   font-weight: bolder;
