@@ -2,6 +2,7 @@
 layout: post
 author: phamdinhkhanh
 title: Bài 1 - Kĩ thuật feature engineering
+categories: ["Machine Learning"]
 ---
 
 # 1. Giới thiệu về feature engineering
