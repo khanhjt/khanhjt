@@ -127,8 +127,9 @@ euclidean(n1, n2), euclidean(n2, n3), euclidean(n3, n4)
 ```
 
 Những từ hiếm khi được tìm thấy trong tập văn bản (corpus) nhưng có mặt trong một văn bản cụ thể có thể quan trọng hơn. Do đó cần tăng trọng số của các nhóm từ ngữ để tách chúng ra khỏi các từ phổ biến. Cách tiếp cận này được gọi là TF-IDF (Term Frequency - Inverse Document Frequency), chúng ta có thể tham khảo [tf-idf - wiki](https://en.wikipedia.org/wiki/Tf%E2%80%93idf). Các chỉ số chính đánh giá tần xuất xuất hiện của một từ trong toàn bộ tập văn bản là idf và tfidf được tính như bên dưới:
-$$\large idf(t,D) = \log\frac{\mid D\mid}{df(d,t)+1} \large tfidf(t,d,D) = tf(t,d) \times idf(t,D)$$
-
+$$\large idf(t,D) = \log\frac{\mid D\mid}{df(d,t)+1}$$
+$$\large tfidf(t,d,D) = tf(t,d) \times idf(t,D)$$
+$F%
 Ở đây
 
 * $\mid D \mid$ là số lượng các văn bản trong corpus.
