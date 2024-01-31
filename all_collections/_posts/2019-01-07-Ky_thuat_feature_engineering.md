@@ -3,6 +3,9 @@ layout: post
 author: phamdinhkhanh
 title: Bài 1 - Kĩ thuật feature engineering
 categories: ["Machine Learning"]
+output:
+  github_document:
+    pandoc_args: --webtex
 ---
 
 # 1. Giới thiệu về feature engineering
