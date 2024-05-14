@@ -2,5 +2,6 @@
 [khanhjt.github.io](https://khanhjt.github.io/)
 
 *Một vài Blog tôi tham khảo*
--- phamdinhkhanh.github.io
--- xuanthulab.net
+ - phamdinhkhanh.github.io
+ - xuanthulab.net
+ - ...
