@@ -1,8 +1,9 @@
---
+---
 layout: post
-author: khanhjt
+author: phamdinhkhanh
 title: Bài 4 -  Attention is all you need
 ---
+
 # Attention is all you need
 ## 1. Encoder & Decoder
 Máy tính chỉ có thể học dữ liệu nếu lập trình viên mã hóa các dữ liệu đó thành các số, sau khi trải qua nhiều các bước thì tiếp tục giải mã.
